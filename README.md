@@ -1,7 +1,6 @@
 # 
-
-Assignment 3 – End-to-End Deep Learning Pipeline for Object Detection and Classification
-This project implements a comprehensive deep learning pipeline for object detection and classification using the Caltech-101 dataset. The pipeline covers data preprocessing, model development with a pre-trained VGG16 backbone, training, evaluation, and visualization of predictions. The goal is to accurately detect and classify objects (airplanes, faces, motorbikes) with bounding boxes and class labels.
+ End-to-End Deep Learning Pipeline for Object Detection and Classification
+This project implements a comprehensive deep learning pipeline for object detection and classification using the Caltech-101 dataset. The pipeline covers data preprocessing, model development with a pre-trained VGG16 backbone, training, evaluation, and visualization of predictions. 
 
 Objective
 To build and evaluate a deep learning model that performs simultaneous object detection (bounding box regression) and classification using transfer learning with VGG16, optimizing for accuracy and bounding box precision.
